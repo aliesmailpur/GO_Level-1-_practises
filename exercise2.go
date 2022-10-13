@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// use var to DECLARE three variables. the variiables shoud have package level scope.
+// use var to DECLARE three variables. the variables shoud have package level scope.
 // Do not assign VALUES to the variables. use the following 
 //Identifiers for the variables and make sure the variables are of the following TYPE(
 // meaning they can store Values of that type)
